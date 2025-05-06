@@ -1,4 +1,5 @@
 # TP8
+## Saya Hasbi Haqqul Fikri dengan NIM 2309245 mengerjakan soal TP 6 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Deskripsi Program
 Program ini adalah aplikasi berbasis web yang menangani data terkait **Prodi (Program Studi)**, **Mahasiswa**, **Mata Kuliah**, dan **Registrasi Mata Kuliah Mahasiswa (KRS)**. Aplikasi ini dibangun dengan mengikuti pola arsitektur **Model-View-Controller (MVC)** untuk memisahkan logika aplikasi, tampilan, dan interaksi dengan database.
